@@ -1,0 +1,23 @@
+*{
+    text-transform: capitalize ;
+}
+body {
+    background: url("https://images.pexels.com/photos/518245/pexels-photo-518245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") ;
+    background-size: 90vh;
+}
+h1{
+    background: rgba(86,122,132,0.5);
+    padding: 7px;
+}
+.alert{
+    word-wrap: break-word;
+}
+.container, .table{
+    background: rgba(255,255,255,0.9);
+}
+.jumbotron{
+    margin-top: 0;
+}
+row{
+    padding: 0;
+}
